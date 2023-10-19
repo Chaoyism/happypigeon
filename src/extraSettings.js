@@ -2,7 +2,7 @@
  * @Author: WANG CHAOYI && chaoyiwang00@foxmail.com
  * @Date: 2023-10-19 12:47:11
  * @LastEditors: WANG CHAOYI
- * @LastEditTime: 2023-10-19 14:07:43
+ * @LastEditTime: 2023-10-19 14:16:16
  * 
  * Copyright (c) 2023 by WANG CHAOYI, All Rights Reserved. 
  */
@@ -34,7 +34,7 @@ let setFruits = {
 }
 
 // 让水果更 Q 弹：false 改为大于 0 小于 1 的任意小数（推荐 0.9）
-let fruitQTan = 0.9;
+let fruitQTan = 0.2;
 
 // 让水果下落缓慢：false 改为大于 0 的任意数，值越大阻力越大，下落越慢（推荐 5）
 let fruitSlowDown = false;
